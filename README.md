@@ -15,11 +15,11 @@ sudo wget https://raw.githubusercontent.com/GaboQuesada/odooinstaladores/12.0/od
 
 PASOS PARA INSTALAR
 
-sudo chmod +x instalarnginxphpletsencript.sh		
+sudo chmod +x odoo-multi-instance-nginx.sh	
 
-nano instalarnginxphpletsencript.sh		
+nano odoo-multi-instance-nginx.sh
 
-sudo ./instalarnginxphpletsencript.sh
+sudo ./odoo-multi-instance-nginx.sh
 
 INSTALADORES PHP + NGINX + LETSENCRIPT
 
