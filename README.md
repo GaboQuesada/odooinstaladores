@@ -1,6 +1,6 @@
 INSTALADORES ODOO + NGINX + LETSENCRIPT
 
-sudo wget https://raw.githubusercontent.com/GaboQuesada/odooinstaladores/multiinstancia/instalarnginxphpletsencript.sh
+sudo wget https://raw.githubusercontent.com/GaboQuesada/odooinstaladores/multiinstancia/odoo-multi-instance-nginx.sh
 
 sudo wget https://raw.githubusercontent.com/GaboQuesada/odooinstaladores/17.0/odoo_install.sh
 
