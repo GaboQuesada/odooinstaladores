@@ -7,7 +7,7 @@ sudo wget https://raw.githubusercontent.com/GaboQuesada/odooinstaladores/15.0/od
 sudo wget https://raw.githubusercontent.com/GaboQuesada/odooinstaladores/12.0/odoo_install.sh
 
 
-sudo wget https://raw.githubusercontent.com/GaboQuesada/odooinstaladores/12.0/odoo12postgres12.sh
+sudo wget https://raw.githubusercontent.com/GaboQuesada/odooinstaladores/12/odoo12postgres12.sh
 
 
 
